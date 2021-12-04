@@ -1,0 +1,34 @@
+G:\Api\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\Api\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\appsettings.json
+G:\Api\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.deps.json
+G:\Api\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.runtimeconfig.json
+G:\Api\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.runtimeconfig.dev.json
+G:\Api\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.dll
+G:\Api\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.pdb
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.csprojAssemblyReference.cache
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.AssemblyInfoInputs.cache
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.AssemblyInfo.cs
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.RazorAssemblyInfo.cache
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.RazorAssemblyInfo.cs
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.RazorTargetAssemblyInfo.cache
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.dll
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.pdb
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.genruntimeconfig.cache
+G:\Api\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.csproj.CoreCompileInputs.cache
+G:\Api Test TopLearn\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\Api Test TopLearn\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\appsettings.json
+G:\Api Test TopLearn\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.deps.json
+G:\Api Test TopLearn\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.runtimeconfig.json
+G:\Api Test TopLearn\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.runtimeconfig.dev.json
+G:\Api Test TopLearn\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.dll
+G:\Api Test TopLearn\ApiTest\ApiTest\bin\Debug\netcoreapp2.2\OverWorkApi.pdb
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.csprojAssemblyReference.cache
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.AssemblyInfoInputs.cache
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.AssemblyInfo.cs
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.csproj.CoreCompileInputs.cache
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.RazorAssemblyInfo.cache
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.RazorAssemblyInfo.cs
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.RazorTargetAssemblyInfo.cache
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.dll
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.pdb
+G:\Api Test TopLearn\ApiTest\ApiTest\obj\Debug\netcoreapp2.2\OverWorkApi.genruntimeconfig.cache

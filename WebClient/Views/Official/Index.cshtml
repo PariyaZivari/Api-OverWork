@@ -1,0 +1,67 @@
+﻿@model List<OfficialViewModel>
+@{
+    ViewData["Title"] = "Index";
+    int rowCount = 1;
+}
+
+<h1>پرسنل رسمی </h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>  شماره پرسنلی </th>
+            <th> نام و نام خانوادگی </th>
+            <th> اضافه کار عادی </th>
+            <th> اضاقه کار واقعی </th>
+            <th>اضافه کار تعطیل </th>
+            <th>اضافه کار واقعی تعطیل </th>
+            <th>اضافه کار مدیریتی</th>
+            <th>مجموع پرداختی </th>
+            <th>از تاریخ </th>
+            <th>تا تاریخ </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@rowCount</td>
+            <td>
+                @item.Pno
+            </td>
+            <td>
+                @item.FullName
+            </td>
+            <td>
+                @item.Normale
+            </td>
+            <td>
+                @item.RealTotalOv
+            </td>
+            <td>
+                @item.EzafTp
+            </td>
+            <td>
+                @item.RealHolidayOvDouble
+            </td>
+            <td>
+                @item.EzafModiriat
+            </td>
+            <td>
+                @item.TotalHourPayment
+            </td>
+            <td>
+                @item.FromDate
+            </td>
+            <td>
+                @item.ToDate
+            </td>
+            <td>
+                <a href="Official/Edit/@item.Id" class="btn btn-warning">Edit</a>
+                <a href="Official/Delete/@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+            rowCount++;
+        }
+    </tbody>
+</table>
